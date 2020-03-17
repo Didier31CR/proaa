@@ -1,3 +1,4 @@
-const doublyLinkedLists = require('./doublyLinkedLists');
+const DoublyLinkedList = require('./DoublyLinkedList');
 
-console.log(doublyLinkedLists);
+
+console.log(DoublyLinkedList);

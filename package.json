@@ -1,9 +1,10 @@
 {
   "name": "proaa",
   "version": "1.0.0",
-  "description": "",
+  "description": "For follow up",
   "main": "index.js",
   "scripts": {
+    "start": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
